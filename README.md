@@ -18,7 +18,7 @@ Unity로 **게임 핵심 루프(농사·전투·탐험·제작)** 를 구현하�
 <br/>
 
 **바로가기**
-- 🌐 GitHub Pages: `https://<YOUR_ID>.github.io/<REPO_NAME>/`
+- 🌐 GitHub Pages: `https://[<YOUR_ID>.github.io](https://github.com/AHN920)`
 - 🎮 게임 Repo: `https://github.com/3639qw/fantasy`
 - ▶ 시연영상: `https://www.youtube.com/watch?v=OZyQkHwtnyE`
 
